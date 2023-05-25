@@ -3,7 +3,7 @@
 My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter will go through all the outcomes. First I'll simply state all the outcomes, next how I will achieve those outcomes and last what i did to achieve them. 
 ## Table of contents
    - [What are the Learning Outcomes](#what-are-the-learning-outcomes)
-      	- [LO 1: You design and build **user-friendly**, **full-stack** web applications.](#lo-1:-you-design-and-build-user-friendly,-full-stack-web-applications)
+      	- [LO 1: You design and build **user-friendly**, **full-stack** web applications.](#lo-1:-you-design-and-build-user-friendly-full-stack-web-applications)
       	- LO 2: You use software **tooling and methodology** that continuously monitors and improve the software quality during software developement.
       	- LO 3: You **choose** and implement the most suitable software developement method for your software project. 
       	- LO 4: You **design and implement** a (semi)automated software release process that matches the need of the project context. 
