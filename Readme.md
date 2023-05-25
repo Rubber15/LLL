@@ -1,194 +1,74 @@
 # Portfolio Semester 3 Software
-
+**Reading guide:**
+My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter will go through all the outcomes. First I'll simply state all the outcomes, next how I will achieve those outcomes and last what i did to achieve them. 
 ## Table of contents
-   - [Preface](#preface)
-   - [Products](#products)
-   - [Where to binge](#Where-to-binge)
-   - [Learning Outcome 1: Web Application (IP)](#learning-outcome-1-web-application-ip)
-       - test
-   - [Learning Outcome 2: Software Quality](#learning-outcome-2-software-quality)
-       - [Testing](#testing)
-       - [Static Code Analysis](#static-code-analysis) 
-       - [Code Reviews](#code-reviews)
-   - [Learning Outcome 4: CI/CD](#learning-outcome-4-cicd)
-       - [Continuous Integration](#continuous-integration) 
-       - [Continuous Deployment](#continuous-deployment)
-   - [Learning Outcome 6: Design](#learning-outcome-6-design)
-       - [Architecture](#architecture)
-       - [Design Origin](#design-origin) 
-   - [Learning Outcome 8: Professional (IP)](#learning-outcome-8-professional-ip)
-       -  [Feedback](#feedback)
-       -  [Researches](#research)
-   - [Learning Outcome 1: Web Application (GP)](#learning-outcome-1-web-application-gp)
-       - [Front-end (ROS)](#front-end-ros)
-       - [Back-end (ROS)](#back-end-ros)
-   - [Learning Outcome 3: Agile Method](#learning-outcome-3-agile-method)
-       - [Scrum](#scrum)
-       - [Waterfall](#waterfall)
-   - [Learning Outcome 5: Cultural Differences and Ethics](#learning-outcome-5-cultural-differences-and-ethics)
-       - [Cultural Differences](#cultural-differences)
-       - [Ethics](#ethics)
-       - [Coding Together](#coding-together)
-   - [Learning Outcome 6: Requirements](#learning-outcome-6-requirements)
-       - [Quality Requirements](#quality-requirements) 
-       - [User Stories and Non-Functional Requirements](#user-stories-and-non-functional-requirements)
-       - [Security and Performance](#security-and-performance)
-       - [Technical Decisions and Architecture](#technical-decisions-and-architecture)
-   - [Learning Outcome 7: Business processes](#learning-outcome-7-business-processes)
-       - [Ordering Process](#ordering-process)
-   - [Learning Outcome 8: Professional (GP)](#learning-outcome-8-professional-gp)
-       - [Team Communication](#team-communication)
-       - [Communication with the Stakeholders](#communication-with-the-stakeholders)
-       - [Ask for feedback](#ask-for-feedback)
-       - [Technical Decisions](#technical-decisions)
-       - [Researches](#research)
-   
- - [Research](#research)
-   - [Agile?](#what-method-is-most-suitable-for-my-project)
-   - [Ethics?](#Ethics)
- - [Reflection](#reflection)
- - [Final words](#final-words) 
-
-# Preface
-In this document I want to show my semester 3 progress on what I have learned and what I should be able to do to fulfill the minimum requirements this semester. 
-
-# Products
-There are several products I made, where I will show what product shows what learning outcome is mastered.
-The products i made are:
-
-## Where to binge 
-this is my front to back project which is the main project.
-
-## Where to binge structure
-this is the first setup and my test on learning how to code with frontend and to put the entire project from front to back in one.
-
-## Orm test
-Here i wanted to learn how to make and orm, and implement it into my main project. Seeing as this is part of a learning outcome i felt this was nice to include in the document.
-
-## Front end test
-Considering i never worked with javascript, react or even made or frontend i wanted to playfully learn how to learn and manipulate the front end to get what i want.
-Here you can trace how i slowly learned how to work with the front end. 
-
-## GroopySwoopy (gp)
-This is our groupsproject made with the students from finland(Oamk).
-
-# Learning Outcome 1: Web Application (IP)
-
-*You design and build **user-friendly**, **full-stack** web applications.*
-
-Clarification:
-
-**User friendly**: You apply basic User experience testing and development techniques.
-
-**Full-stack**: You design and build a full stack application using commonly accepted front end (JavaScript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
-
-# Learning Outcome 2: Software Quality
-*You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.*
-
-Clarification:
-
-**Tooling and methodology**: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code analysis and code reviews.
-
-# Learning Outcome 4: CI/CD
-*You **design and implement** a (semi)automated software release process that matches the needs of the project context.*
-
-Clarification:
-
-**Design and implement**: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
-
-## Continuous Integration
-
-## Continuous Deployment
-
-# Learning Outcome 6: Design
-*You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.*
-
-## Architecture
-
-## Design Origin
-
-# Learning Outcome 8: Professional (IP)
-*You act in a **professional manner** during software development and learning.*
-
-# Learning Outcome 1: Web Application (GP)
-*You design and build **user-friendly**, **full-stack** web applications.*
-
-Clarification:
-
-**User friendly**: You apply basic User experience testing and development techniques.
-
-**Full-stack**: You design and build a full stack application using commonly accepted front end (JavaScript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
-
-# Learning Outcome 3: Agile Method
-*You can implement the software process for your project according to a given agile software development method.*
-
-Clarification:
-
-**Agile** method: You are aware of most popular agile methods and their underlying agile principles. You are able to implement the process of your software project according to a chosen methodology.
-
-## Scrum
-what is scrum?
-
-why scrum?
-
-## Waterfall
-what is waterfall?
-
-why not waterfall?
-
-
-# Learning Outcome 5: Cultural Differences and Ethics
-*You **recognize** and **take into account** cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
-
-Clarification:
-
-**Recognize**:  Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
-
-**Take into account**: Adapt your communication, working, and behaviour styles to work with other developers from different cultures; 
-Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
-
-# Learning Outcome 7: Business processes
-*You can explain **simple** business processes and **relate** them to the development of your software project.*
-
-Clarification:
-
-**Simple**: predominantly sequential processes with one or two alternative paths.
-
-**Relate**: understanding the relationships between the process and software.
-
-# Learning Outcome 8: Professional (GP)
-*You act in a **professional manner** during software development and learning.*
-
-Clarification:
-
-**Professional manner**: You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team. You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate solutions for a given problem.
-
-## Team Communication
-**what we use:
-We have an elaborate discord server in which we put everything we need in.
-We have seperate textchannels for all documents, meetings, meetingreports, links, announcements, schedule and even a seperate channel per team.
-We also have 4 voice channels divided in a general chat roon, 2 chat rooms, 1 per team and a meeting room.
-
-## Communication with the Stakeholders
-For communicating with out stakeholders we invite them through email to join a teams meeting for the sprint delivery.
-Idividual questions online also go through teams.
-If we need something else and they are at school we ask them directly.
-
-## What are the others doing?
-
-## Ask for feedback
-
-## Technical Decisions
-
-# Research
-
-# Reflection
-
- ## What went good?
- explanation
- 
- ## What will I do different next time?
- explanation
-
-# Final words
-
+   - [What are the Learning Outcomes]
+      - LO 1: You design and build **user-friendly**, **full-stack** web applications.
+      - LO 2: You use software **tooling and methodology** that continuously monitors and improve the software quality during software developement.
+      - LO 3: You **choose** and implement the most suitable software developement method for your software project. 
+      - LO 4: You **design and implement** a (semi)automated software release process that matches the need of the project context. 
+      - LO 5: You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development.
+      - LO 6: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
+      - LO 7: You analyze and describe **simple** business processes that are **related** to your project.
+      - LO 8: You act in a **professional manner** during software development and learning.
+  -[How will I achieve the Learning Outcomes]
+	  - What app am I making to show the Learning Outcomes. 
+	  - LO 1: Designing and building the LLL. 
+	  - LO 2: Which software tooling and methodology is best for the LLL?
+	  - LO 3: What is the most suitable software development method for the LLL or the group project?
+	  - LO 4: What tool is the best for the LLL to make sure it is (semi)automated released?
+	  - LO 5: How are the cultural differences addressed and taken into account in the group prject?
+	  - LO 6: Which non functional requirements can be assigned to the LLL?
+	  - LO 7: What is the buisiness process for the group project?
+	  - Lo 8: Why is professional communication so different from communication between friends(research)?
+  -[Proof] 
+	  - The LLL
+		-Introduction
+			"The problem that the LLL solves is that when playing lore heavy games with friends, gameplay has to be interrupted to ask questions. This causes stagnation in gameplay and has everybody lose their immersion. 
+			My solution to this problem in THE LEGEND LORE LIBRARY. This will serve as a desktop web app in which you can look up answers to your questions regarding lore. A game leader puts the information somebody needs into the app.
+			Only a game leader can do this so that all information is relevant and is written in a way their players can understand. 
+		-Designs
+		-Requirements
+			"To get a clear view of what requirements are needed, I started with user stories. 
+			As a game master, I want to create and share lore with my players before the game starts, so they can understand and get immersed in the world right away.
+			As a player, I want to be able to access the lore of the game world easily during gameplay, so I don't have to interrupt the flow of the game to ask questions.
+			As a game master, I want to be able to update the lore and worldbuilding information easily, so I can keep my players informed of any changes or additions to the game world.
+			As a new player, I want to be able to learn about the game world quickly and easily, so I can start playing and contributing to the story right away.
+			As a player, I want to be able to search and filter the lore information, so I can find the information I need quickly and efficiently during a game.
+			As a game master, I want to be able to assign specific lore information to different players, so they can have personalized knowledge about the game world and its history.
+			As a player, I want to be able to add my own private notes and comments to the lore information, so I can remember important details and contribute to the game world's development.
+			These were somewhat written by ChatGPT and then modified by me. Following these user stories as a guideline, i can extrapolate the following requirements. 
+			Scalability:
+				The app should be to handle a growing userbase and stored information without sacrificing preformance. 
+				The webapp has to support horizontal scaling to accomodate increased user load.
+				
+			Preformance: 
+				The app must have a fast response time to ensure smooth user experience.
+				
+			Availability:
+				The app should only be down when an update is implemented. 
+				The system could have backup and disaster recovery mechanisms.
+				
+			Reliability:
+				The webapp should have error handling and logging mechanisms for debugging
+				
+			Usability:
+				The user interface of the app should be intuitive and simple allowing users to easily navigate and get familliar with the app. 
+				The app can have search and filter options to quickly find specific data. 
+				The search options can be flexible (keywords, categories, tags, etc.)
+				The app can be user friendly for mobile users.
+				
+				
+			
+				
+	  - Azure (CI/CD)
+	  - The Group Project (Groopy Swoopy)
+		-API
+		-Azure
+		-Cultural differences
+		-Business Process
+	  - Research in Communication
+		-Why is professional communication so different than "friendly" communication?
+	  - Research in Cultural Differences
+		-How is autonomy and the feeling of community balanced in Finland as compared to The Netherlands?
+		
