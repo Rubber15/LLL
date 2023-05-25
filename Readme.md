@@ -12,7 +12,6 @@ My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter
       	- LO 7: You analyze and describe **simple** business processes that are **related** to your project.
       	- LO 8: You act in a **professional manner** during software development and learning.
  - [How will I achieve the Learning Outcomes](#how-will-i-achieve-the-learning-outcomes)
-	 - What app am I making to show the Learning Outcomes. 
 	 - LO 1: Designing and building the LLL. 
 	 - LO 2: Which software tooling and methodology is best for the LLL?
 	 - LO 3: What is the most suitable software development method for the LLL or the group project?
@@ -94,3 +93,27 @@ This LO wants to convey the professionalism of working an actual job. Asking fee
 
 
 # How will i achieve the Learning Outcomes?
+I am making the Legend Lore Library. It has some key similarities with World Anvil. it will serve as a place where you can store and show information about a game. As a group project we have made Groopy Swoopy. This project was made by a collaboration with Finland. Our dutch group went to Finland (Oulu) for a week at the start of the semester and they came here for a week at the end.
+
+## LO 1: Designing and building the LLL. 
+To make the webapp user friendly, my first step is using azure AD for signing in. This makes it so that the user doesn’t need a new username and password to log in, but instead can log in with an existing Microsoft account. 	
+The Full stack part I need some help with. 
+
+I want to use a Javascript framework and decided to use React. I have done some research on which framework fits my needs the best. I came to the conclusion that there are a lot of options. Angular is the best rated but mostly used for one page apps, something I am not planning on doing. There is Vue3, which seems great on the surface but is very difficult to learn when you have no experience with frontend development. I chose to use React. There is a lot of guides available and heard about it a lot. 
+
+## LO 2: Which software tooling and methodology is best for the LLL?
+For this Learning Outcome I will make changes to my .yml file. The changes I want to make are rules that the application does not build and deploy when not all the Unit and system tests are completed. This will (hopefully) prevent that a version of the app that works locally but not globally ends up being deployed. 
+
+## LO 3: What is the most suitable software development method for the LLL or the group project?
+For my own project i think scrum would seem like wasted potential. Scrum is widely used in group projects because it is good at making sure a group works best. Using Scrum in an individual project will cost more effort than it will offer help. However, for the group project we are using Scrum because of those advantages. 
+
+## LO 4: What tool is the best for the LLL to make sure it is (semi)automated released?
+To achieve this outcome I am going to use the App Service from Azure. This fabricates a .yml file to initiate Github Actions. Every time I push to the main branch or merge with it, it will run tests and check if there are any errors. If all the conditions are met, it will go through all the steps needed to build and publish my project to an azure web service. I chose Azure here because it seems like a service that can be very useful for all sorts of thing. It however has a very steep learning curve. In this semester I have time and space to try some of its features out and start getting slightly proficient with Azure, hence my choice. 
+
+## LO 5: How are the cultural differences addressed and taken into account in the group prject?
+
+
+- LO 6: Which non functional requirements can be assigned to the LLL?
+- LO 7: What is the buisiness process for the group project?
+- Lo 8: Why is professional communication so different from communication between friends(research)?
+
