@@ -3,7 +3,7 @@
 My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter will go through all the outcomes. First I'll simply state all the outcomes, next how I will achieve those outcomes and last what i did to achieve them. 
 ## Table of contents
    - [What are the Learning Outcomes](#what-are-the-learning-outcomes)
-      	- LO 1: You design and build **user-friendly**, **full-stack** web applications.
+      	- [LO 1: You design and build **user-friendly**, **full-stack** web applications.](#lo-1:-you-design-and-build-**user-friendly**,-**full-stack**-web-applications)
       	- LO 2: You use software **tooling and methodology** that continuously monitors and improve the software quality during software developement.
       	- LO 3: You **choose** and implement the most suitable software developement method for your software project. 
       	- LO 4: You **design and implement** a (semi)automated software release process that matches the need of the project context. 
@@ -66,6 +66,28 @@ My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter
 		
 
 # What are the learning outcomes?
+The learning outcomes are 8 statements that you need to complete to succefully pass this semester. In S3 software, it are the following 8:
 
+## LO 1: You design and build **user-friendly**, **full-stack** web applications.
+LO1 asks to make a full stack web app keeping the user experience in mind. Full stack means that you build the frontend and the backend yourself. The frontend needs to be in a javascript based framework and the backend needs to have relevant communication protocols and needs to address asynchronous communication issues. 
 
+## LO 2: You use software **tooling and methodology** that continuously monitors and improve the software quality during software developement.
+This LO calls for the CI part of CI/CD, meaning continuous integration. There are multiple providers to do this; azure, GitHub actions, docker, Jenkins to name a few. This make sure that every time you finish a new part of your code, that it will be checked against tests and specifications you set up. It prevents that unfinished or broken code ends up at the actual online server.  
 
+## LO 3: You **choose** and implement the most suitable software developement method for your software project. 
+This learning outcome calls for Scrum. This is easiest to show in the group project and seems interconnected with LO8. 
+
+## LO 4: You **design and implement** a (semi)automated software release process that matches the need of the project context. 
+LO3 sets the requirement of using and implementing the CD part of CI/CD, meaning continuous delivery. There are multiple options to do this but they all, some way or another, place your app on a webserver. When there is a part of code finished, it will automatically make it available to see online. 
+
+## LO 5: You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development.
+Here the LO asks us to think about other cultures and take those into account when communicating. The question of ethics is also raised, not all code should be made. 
+
+## LO 6: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
+Not only Unit tests and acceptation tests need to be done. User testing is also important and should be done in the project. That is what LO6 asks for
+
+## LO 7: You analyze and describe **simple** business processes that are **related** to your project.
+Alle the processes that need to be done to get your program into the real world should be thought about and described. 
+
+## LO 8: You act in a **professional manner** during software development and learning.
+This LO wants to convey the professionalism of working an actual job. Asking feedback often, being in class, communicating professionally. 
