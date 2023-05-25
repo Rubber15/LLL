@@ -2,34 +2,34 @@
 **Reading guide:**
 My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter will go through all the outcomes. First I'll simply state all the outcomes, next how I will achieve those outcomes and last what i did to achieve them. 
 ## Table of contents
-   - [What are the Learning Outcomes]
-      - LO 1: You design and build **user-friendly**, **full-stack** web applications.
-      - LO 2: You use software **tooling and methodology** that continuously monitors and improve the software quality during software developement.
-      - LO 3: You **choose** and implement the most suitable software developement method for your software project. 
-      - LO 4: You **design and implement** a (semi)automated software release process that matches the need of the project context. 
-      - LO 5: You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development.
-      - LO 6: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
-      - LO 7: You analyze and describe **simple** business processes that are **related** to your project.
-      - LO 8: You act in a **professional manner** during software development and learning.
+   - [What are the Learning Outcomes](#what-are-the-learning-outcomes)
+      	- LO 1: You design and build **user-friendly**, **full-stack** web applications.
+      	- LO 2: You use software **tooling and methodology** that continuously monitors and improve the software quality during software developement.
+      	- LO 3: You **choose** and implement the most suitable software developement method for your software project. 
+      	- LO 4: You **design and implement** a (semi)automated software release process that matches the need of the project context. 
+      	- LO 5: You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development.
+      	- LO 6: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
+      	- LO 7: You analyze and describe **simple** business processes that are **related** to your project.
+      	- LO 8: You act in a **professional manner** during software development and learning.
   -[How will I achieve the Learning Outcomes]
-	  - What app am I making to show the Learning Outcomes. 
-	  - LO 1: Designing and building the LLL. 
-	  - LO 2: Which software tooling and methodology is best for the LLL?
-	  - LO 3: What is the most suitable software development method for the LLL or the group project?
-	  - LO 4: What tool is the best for the LLL to make sure it is (semi)automated released?
-	  - LO 5: How are the cultural differences addressed and taken into account in the group prject?
-	  - LO 6: Which non functional requirements can be assigned to the LLL?
-	  - LO 7: What is the buisiness process for the group project?
-	  - Lo 8: Why is professional communication so different from communication between friends(research)?
+	 - What app am I making to show the Learning Outcomes. 
+	 - LO 1: Designing and building the LLL. 
+	 - LO 2: Which software tooling and methodology is best for the LLL?
+	 - LO 3: What is the most suitable software development method for the LLL or the group project?
+	 - LO 4: What tool is the best for the LLL to make sure it is (semi)automated released?
+	 - LO 5: How are the cultural differences addressed and taken into account in the group prject?
+	 - LO 6: Which non functional requirements can be assigned to the LLL?
+	 - LO 7: What is the buisiness process for the group project?
+	 - Lo 8: Why is professional communication so different from communication between friends(research)?
   -[Proof] 
 	  - The LLL
-		-Introduction
+	-Introduction
 			"The problem that the LLL solves is that when playing lore heavy games with friends, gameplay has to be interrupted to ask questions. This causes stagnation in gameplay and has everybody lose their immersion. 
 			My solution to this problem in THE LEGEND LORE LIBRARY. This will serve as a desktop web app in which you can look up answers to your questions regarding lore. A game leader puts the information somebody needs into the app.
 			Only a game leader can do this so that all information is relevant and is written in a way their players can understand. 
 		-Designs
 		-Requirements
-			"To get a clear view of what requirements are needed, I started with user stories. 
+			To get a clear view of what requirements are needed, I started with user stories. 
 			As a game master, I want to create and share lore with my players before the game starts, so they can understand and get immersed in the world right away.
 			As a player, I want to be able to access the lore of the game world easily during gameplay, so I don't have to interrupt the flow of the game to ask questions.
 			As a game master, I want to be able to update the lore and worldbuilding information easily, so I can keep my players informed of any changes or additions to the game world.
@@ -41,27 +41,19 @@ My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter
 			Scalability:
 				The app should be to handle a growing userbase and stored information without sacrificing preformance. 
 				The webapp has to support horizontal scaling to accomodate increased user load.
-				
 			Preformance: 
 				The app must have a fast response time to ensure smooth user experience.
-				
 			Availability:
 				The app should only be down when an update is implemented. 
 				The system could have backup and disaster recovery mechanisms.
-				
 			Reliability:
 				The webapp should have error handling and logging mechanisms for debugging
-				
 			Usability:
 				The user interface of the app should be intuitive and simple allowing users to easily navigate and get familliar with the app. 
 				The app can have search and filter options to quickly find specific data. 
 				The search options can be flexible (keywords, categories, tags, etc.)
 				The app can be user friendly for mobile users.
-				
-				
-			
-				
-	  - Azure (CI/CD)
+	  - Azure (CI/CD)	
 	  - The Group Project (Groopy Swoopy)
 		-API
 		-Azure
@@ -72,3 +64,8 @@ My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter
 	  - Research in Cultural Differences
 		-How is autonomy and the feeling of community balanced in Finland as compared to The Netherlands?
 		
+
+# What are the learning outcomes?
+
+
+
