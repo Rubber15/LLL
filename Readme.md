@@ -11,7 +11,7 @@ My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter
       	- LO 6: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
       	- LO 7: You analyze and describe **simple** business processes that are **related** to your project.
       	- LO 8: You act in a **professional manner** during software development and learning.
-  -[How will I achieve the Learning Outcomes](#how-will-i-achieve-the-learning-outcomes)
+ - [How will I achieve the Learning Outcomes](#how-will-i-achieve-the-learning-outcomes)
 	 - What app am I making to show the Learning Outcomes. 
 	 - LO 1: Designing and building the LLL. 
 	 - LO 2: Which software tooling and methodology is best for the LLL?
