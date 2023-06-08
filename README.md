@@ -26,43 +26,19 @@ My Portfolio for Semester 3 is devided into the learning outcomes. Every chapter
 			"The problem that the LLL solves is that when playing lore heavy games with friends, gameplay has to be interrupted to ask questions. This causes stagnation in gameplay and has everybody lose their immersion. 
 			My solution to this problem in THE LEGEND LORE LIBRARY. This will serve as a desktop web app in which you can look up answers to your questions regarding lore. A game leader puts the information somebody needs into the app.
 			Only a game leader can do this so that all information is relevant and is written in a way their players can understand. 
-		-Designs
-		-Requirements
-			To get a clear view of what requirements are needed, I started with user stories. 
-			As a game master, I want to create and share lore with my players before the game starts, so they can understand and get immersed in the world right away.
-			As a player, I want to be able to access the lore of the game world easily during gameplay, so I don't have to interrupt the flow of the game to ask questions.
-			As a game master, I want to be able to update the lore and worldbuilding information easily, so I can keep my players informed of any changes or additions to the game world.
-			As a new player, I want to be able to learn about the game world quickly and easily, so I can start playing and contributing to the story right away.
-			As a player, I want to be able to search and filter the lore information, so I can find the information I need quickly and efficiently during a game.
-			As a game master, I want to be able to assign specific lore information to different players, so they can have personalized knowledge about the game world and its history.
-			As a player, I want to be able to add my own private notes and comments to the lore information, so I can remember important details and contribute to the game world's development.
-			These were somewhat written by ChatGPT and then modified by me. Following these user stories as a guideline, i can extrapolate the following requirements. 
-			Scalability:
-				The app should be to handle a growing userbase and stored information without sacrificing preformance. 
-				The webapp has to support horizontal scaling to accomodate increased user load.
-			Preformance: 
-				The app must have a fast response time to ensure smooth user experience.
-			Availability:
-				The app should only be down when an update is implemented. 
-				The system could have backup and disaster recovery mechanisms.
-			Reliability:
-				The webapp should have error handling and logging mechanisms for debugging
-			Usability:
-				The user interface of the app should be intuitive and simple allowing users to easily navigate and get familliar with the app. 
-				The app can have search and filter options to quickly find specific data. 
-				The search options can be flexible (keywords, categories, tags, etc.)
-				The app can be user friendly for mobile users.
-	  - Azure (CI/CD)	
-	  - The Group Project (Groopy Swoopy)
-		-API
-		-Azure
-		-Cultural differences
-		-Business Process
-	  - Research in Communication
-		-Why is professional communication so different than "friendly" communication?
-	  - Research in Cultural Differences
-		-How is autonomy and the feeling of community balanced in Finland as compared to The Netherlands?
-		
+	- Designs
+	- Requirements
+	- Azure (CI/CD)	
+	- The Group Project (Groopy Swoopy)
+	- API
+	- Azure
+	- Cultural differences
+	- Business Process
+	- Research in Communication
+	- Why is professional communication so different than "friendly" communication?
+	- Research in Cultural Differences
+	- How is autonomy and the feeling of community balanced in Finland as compared to The Netherlands?
+
 
 # What are the learning outcomes?
 The learning outcomes are 8 statements that you need to complete to succefully pass this semester. In S3 software, it are the following 8:
@@ -111,9 +87,13 @@ For my own project i think scrum would seem like wasted potential. Scrum is wide
 To achieve this outcome I am going to use the App Service from Azure. This fabricates a .yml file to initiate Github Actions. Every time I push to the main branch or merge with it, it will run tests and check if there are any errors. If all the conditions are met, it will go through all the steps needed to build and publish my project to an azure web service. I chose Azure here because it seems like a service that can be very useful for all sorts of thing. It however has a very steep learning curve. In this semester I have time and space to try some of its features out and start getting slightly proficient with Azure, hence my choice. 
 
 ## LO 5: How are the cultural differences addressed and taken into account in the group prject?
+This outcome is easy to show. I will be working with finnish people in this project. There are many differences relating to team hirarchy and communication. 
+
+## LO 6: Which non functional requirements can be assigned to the LLL?
+From user stories, requirements can be defined. Some examples that i think can be useful for my application are those realting to scalibility. A lot of data needs to be able to get sent to a huge amount of users. Availability is also important. Games should not be postponed because the site is down. 
+
+## LO 7: What is the buisiness process for the group project?
 
 
-- LO 6: Which non functional requirements can be assigned to the LLL?
-- LO 7: What is the buisiness process for the group project?
-- Lo 8: Why is professional communication so different from communication between friends(research)?
+## LO 8: Why is professional communication so different from communication between friends(research)?
 
