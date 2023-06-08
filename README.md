@@ -93,7 +93,28 @@ This outcome is easy to show. I will be working with finnish people in this proj
 From user stories, requirements can be defined. Some examples that i think can be useful for my application are those realting to scalibility. A lot of data needs to be able to get sent to a huge amount of users. Availability is also important. Games should not be postponed because the site is down. 
 
 ## LO 7: What is the buisiness process for the group project?
-
+--
 
 ## LO 8: Why is professional communication so different from communication between friends(research)?
+This is a Outcome that you show by acting in a professional manner. 
 
+
+
+# Proof
+
+## LO1 You design and build **user-friendly**, **full-stack** web applications.
+![image](https://github.com/Rubber15/LLL/assets/113981419/0a4e50fd-01ff-43da-b95e-b1f0d1e11575)
+Above is the Full stack web application in developement. The bottom right shows a local database, Bottom left is the React app, which accesses the Api, which is shown in the top left. Code for the API is found here: 
+## LO2 You use software **tooling and methodology** that continuously monitors and improve the software quality during software developement.
+
+## LO3 You **choose** and implement the most suitable software developement method for your software project. 
+
+## LO4 You **design and implement** a (semi)automated software release process that matches the need of the project context. 
+
+## LO5 You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software
+
+## LO6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
+
+## LO7 You analyze and describe **simple** business processes that are **related** to your project.
+
+## LO8 You act in a **professional manner** during software development and learning.
