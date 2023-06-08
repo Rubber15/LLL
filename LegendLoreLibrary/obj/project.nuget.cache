@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "up5KpJ173QcbBIgOcjekiUEs68QgtXOLe7Sy2F9eXPnwjAkBhWy2UjckxCi/Z1fG++lWgCjsc3/4TOhUDkCJxg==",
+  "dgSpecHash": "3pX+XRyAdCkgSLisYeD8iCtCx6qzXxCqOeri1r5Yr4VnUPpOTJx0MJvHI/46nelQBJgoEJeYe7x7SPFDPZ9V5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ruben\\Source\\Repos\\Rubber15\\LLL\\LegendLoreLibrary\\LegendLoreLibrary.csproj",
   "expectedPackageFiles": [
@@ -97,11 +97,7 @@
     "C:\\Users\\Ruben\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+    "C:\\Users\\Ruben\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
