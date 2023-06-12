@@ -116,7 +116,9 @@ Above is the Full stack web application in developement. The bottom right shows 
 To show how i deal with and play into cultural differences i will take my collaboration with the finnish people from the group project. Before i went to finland and started the project, I looked into the power distance and compared that to the netherlands. 
 I found a website hofstede-insights.com and got good data to compare the two countries. 
 ![image](https://github.com/Rubber15/LLL/assets/113981419/11f0e6d8-d7ed-430c-90f7-097cffbbfea0)
-But my expectations didn't really align with reality when we actually started working. 
+But my expectations didn't really align with reality when we actually started working. Most of our group have not been in a proffessional setting before. the few who were took the lead. This made it different than i expected and difficult to predict the outcome of meetings. I also lived in Singapore for a bit from age 8 untill age 11 and remebered that my dad said that it was very different and i looked up what the power distance was for asian countries. 
+![image](https://github.com/Rubber15/LLL/assets/113981419/e2841fd8-af3b-4af8-8e04-8973b722fa0c)
+Singapore is a bit more modern
 **Ethical Aspects:**
 ## LO6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
 
