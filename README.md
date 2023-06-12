@@ -112,7 +112,12 @@ Above is the Full stack web application in developement. The bottom right shows 
 ## LO4 You **design and implement** a (semi)automated software release process that matches the need of the project context. 
 
 ## LO5 You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software
-
+**Cultural Differences:**
+To show how i deal with and play into cultural differences i will take my collaboration with the finnish people from the group project. Before i went to finland and started the project, I looked into the power distance and compared that to the netherlands. 
+I found a website hofstede-insights.com and got good data to compare the two countries. 
+![image](https://github.com/Rubber15/LLL/assets/113981419/11f0e6d8-d7ed-430c-90f7-097cffbbfea0)
+But my expectations didn't really align with reality when we actually started working. 
+**Ethical Aspects:**
 ## LO6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
 
 ## LO7 You analyze and describe **simple** business processes that are **related** to your project.
