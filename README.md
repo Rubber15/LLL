@@ -118,8 +118,20 @@ I found a website hofstede-insights.com and got good data to compare the two cou
 ![image](https://github.com/Rubber15/LLL/assets/113981419/11f0e6d8-d7ed-430c-90f7-097cffbbfea0)
 But my expectations didn't really align with reality when we actually started working. Most of our group have not been in a proffessional setting before. the few who were took the lead. This made it different than i expected and difficult to predict the outcome of meetings. I also lived in Singapore for a bit from age 8 untill age 11 and remebered that my dad said that it was very different and i looked up what the power distance was for asian countries. 
 ![image](https://github.com/Rubber15/LLL/assets/113981419/e2841fd8-af3b-4af8-8e04-8973b722fa0c)
-Singapore is a bit more modern
+Singapore is a bit more modern:
+![image](https://github.com/Rubber15/LLL/assets/113981419/b6d17c29-bce1-4ec2-afa6-4da522f2b744)
+There is still a large differece between the power distance and hope to someday work in an evoirement where i can see the positives and negatives of the multiple criterea. 
+
+
 **Ethical Aspects:**
+I have yet to experience any way to use my coding skills for evil. In ethical aspects of coding i see hackers who use their skills for the benefit of the majority of the people or those that use their coding abilities with no harm to others. 
+I recently found a good discussion about this when i heard something on the news. There were deepfakes of putin on the radio saying that Russia has been invaded by Ukraine and thereby spreading mass panic in Russia. 
+I argued that using deepfakes and hacking in a war is a good way to make sure no civilians get hurt and still get your message across. However one of my friends argued that imitating a leader of an army is an unethical way to gain an advantage and push the other sides to their extreme limits. 
+
+In my application, creating an debate about ethical aspects is harder. People can decide wether what they are doing benefits them and people have to actually look for the information they wany to know. However, solving a problem (or at least trying to) is what i hope my application does and i find that to be the more ethical side of coding. 
+
+
+
 ## LO6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
 
 ## LO7 You analyze and describe **simple** business processes that are **related** to your project.
