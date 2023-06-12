@@ -128,6 +128,8 @@ I have yet to experience any way to use my coding skills for evil. In ethical as
 I recently found a good discussion about this when i heard something on the news. There were deepfakes of putin on the radio saying that Russia has been invaded by Ukraine and thereby spreading mass panic in Russia. 
 I argued that using deepfakes and hacking in a war is a good way to make sure no civilians get hurt and still get your message across. However one of my friends argued that imitating a leader of an army is an unethical way to gain an advantage and push the other sides to their extreme limits. 
 
+source: https://www.nytimes.com/2023/06/05/world/europe/putin-deep-fake-speech-hackers.html
+
 In my application, creating an debate about ethical aspects is harder. People can decide wether what they are doing benefits them and people have to actually look for the information they wany to know. However, solving a problem (or at least trying to) is what i hope my application does and i find that to be the more ethical side of coding. 
 
 
@@ -135,5 +137,9 @@ In my application, creating an debate about ethical aspects is harder. People ca
 ## LO6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
 
 ## LO7 You analyze and describe **simple** business processes that are **related** to your project.
+The processes I want to focus on are: 
+1. Content creation management. Not everybody should be able to post everything.
+2. Preformance and Stability. You can not be more disruptive by using the app.
+3. Financial assurance. Who pays, for what and why?
 
 ## LO8 You act in a **professional manner** during software development and learning.
