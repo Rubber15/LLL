@@ -133,7 +133,7 @@ source: https://www.nytimes.com/2023/06/05/world/europe/putin-deep-fake-speech-h
 
 In my application, creating an debate about ethical aspects is harder. People can decide wether what they are doing benefits them and people have to actually look for the information they wany to know. However, solving a problem (or at least trying to) is what i hope my application does and i find that to be the more ethical side of coding. 
 
-
+//TODO TICT
 
 ## LO6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
 
@@ -142,5 +142,7 @@ The processes I want to focus on are:
 1. Content creation management. Not everybody should be able to post everything.
 2. Preformance and Stability. You can not be more disruptive by using the app.
 3. Financial assurance. Who pays, for what and why?
+
+//TODO Cn=anvas course GP veel tools. 
 
 ## LO8 You act in a **professional manner** during software development and learning.
