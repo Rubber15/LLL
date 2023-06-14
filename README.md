@@ -146,6 +146,24 @@ As a player, I want to be able to search and filter the lore information, so I c
 As a game master, I want to be able to assign specific lore information to different players, so they can have personalized knowledge about the game world and its history.
 As a player, I want to be able to add my own private notes and comments to the lore information, so I can remember important details and contribute to the game world's development.
 
+From those user stories, I have made the following requirements in multiple categories:
+
+Scalability:
+	The app should be to handle a growing userbase and stored information without sacrificing preformance. 
+	The webapp has to support horizontal scaling to accomodate increased user load.
+Preformance: 
+	The app must have a fast response time to ensure smooth user experience.			
+Availability:
+	The app should only be down when an update is implemented. 
+	The system could have backup and disaster recovery mechanisms.
+Reliability:
+	The webapp should have error handling and logging mechanisms for debugging
+Usability:
+	The user interface of the app should be intuitive and simple allowing users to easily navigate and get familliar with the app. 
+	The app can have search and filter options to quickly find specific data. 
+	The search options can be flexible (keywords, categories, tags, etc.)
+	The app can be user friendly for mobile users.
+
 
 ## LO7 You analyze and describe **simple** business processes that are **related** to your project.
 The processes I want to focus on are: 
