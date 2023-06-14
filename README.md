@@ -136,6 +136,16 @@ In my application, creating an debate about ethical aspects is harder. People ca
 //TODO TICT
 
 ## LO6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**.
+My first step to make (non-functional) requirements is to define user stories. With some help from an AI tool, these are the stories that my project needs:
+
+As a game master, I want to create and share lore with my players before the game starts, so they can understand and get immersed in the world right away.
+As a player, want to be able to access the lore of the game world easily during gameplay, so I don't have to interrupt the flow of the game to ask questions.
+As a game master, I want to be able to update the lore and worldbuilding information easily, so I can keep my players informed of any changes or additions to the game world.
+As a new player, I want to be able to learn about the game world quickly and easily, so I can start playing and contributing to the story right away.
+As a player, I want to be able to search and filter the lore information, so I can find the information I need quickly and efficiently during a game.
+As a game master, I want to be able to assign specific lore information to different players, so they can have personalized knowledge about the game world and its history.
+As a player, I want to be able to add my own private notes and comments to the lore information, so I can remember important details and contribute to the game world's development.
+
 
 ## LO7 You analyze and describe **simple** business processes that are **related** to your project.
 The processes I want to focus on are: 
